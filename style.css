@@ -16,7 +16,7 @@ h1{
 }
 	
 p{
-	border-style: dots;
+	border-style: dotted;
         border-width: 20px;
 	border-color: pink;
 
@@ -40,7 +40,7 @@ a:visited{
 }
 
 a:hover{
-	color: pink;
+	color: gray;
 }
 
 h4{
