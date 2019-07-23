@@ -1,8 +1,8 @@
 body{
-	font-family:OCR A Std, monospace;
+	font-family: 'Actor';
 	font-size: 30px;
-	text-align: left;
-	cursor: url("https://img.icons8.com/color/50/000000/the-sims.png") 10 10,auto;
+	text-align: right;
+	cursor: url("http://cur.cursors-4u.net/special/spe-2/spe191.ani), url(http://cur.cursors-4u.net/special/spe-2/spe191.png") 10 10,auto;
 	background-color: FFF0D6;
 	
 }
@@ -15,9 +15,9 @@ h1{
 }
 	
 p{
-	border-style: solid;
+	border-style: dots;
         border-width: 20px;
-	border-color: green;
+	border-color: white;
 
 }
 	
@@ -30,12 +30,12 @@ h3{
 }
 	
 a:link{
-	color: black;
+	color: white;
 	text-decoration: none;
 }
 
 a:visited{
-	color: black;
+	color: white;
 }
 
 a:hover{
@@ -44,7 +44,7 @@ a:hover{
 
 h4{
 	align-items: right;
-	border: 10px green solid;
+	border: 10px white solid;
 	font-family: DejaVu Sans Mono, monospace;
 	font-size: 20px ;
 	margin-bottom: 20px;
