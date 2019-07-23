@@ -1,9 +1,10 @@
 body{
-	font-family: 'Actor';
+	font-family: Actor;
 	font-size: 30px;
+	font-color: pink;
 	text-align: right;
-	cursor: url(http://cur.cursors-4u.net/special/spe-2/spe191.png") 10 10,auto;
-	background-color: FFF0D6;
+	cursor: url("http://cur.cursors-4u.net/special/spe-2/spe191.png") 10 10,auto;
+	background-color:  gray;
 	
 }
 
@@ -17,7 +18,7 @@ h1{
 p{
 	border-style: dots;
         border-width: 20px;
-	border-color: white;
+	border-color: pink;
 
 }
 	
