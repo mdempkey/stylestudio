@@ -18,7 +18,7 @@ h1{
 p{
 	border-style: dotted;
         border-width: 20px;
-	border-color: pink;
+	border-color: white;
 
 }
 	
@@ -45,8 +45,8 @@ a:hover{
 
 h4{
 	align-items: right;
-	border: 10px white solid;
-	font-family: DejaVu Sans Mono, monospace;
+	border: 10px white dotted;
+	font-family: Actor;
 	font-size: 20px ;
 	margin-bottom: 20px;
 	
