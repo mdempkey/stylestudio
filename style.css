@@ -13,6 +13,10 @@ h1{
 	text-align: left;
 	word-spacing: 60px;
 }
+
+h2{
+	font-color:  #77778F;
+}
 	
 p{
 	border: 15px #77778F dotted;
