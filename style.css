@@ -239,6 +239,10 @@ form {
   font-family: Actor;
 }
 
+pics {
+	margin: auto
+}
+
 .container {
   padding: 20px;
   background-color: pink;
