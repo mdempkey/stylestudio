@@ -270,6 +270,7 @@ input[type=submit]:hover {
 
 /* Dropdown Button */
 .dropbtn {
+  float: left;
   background-color: #FF1493;
   color: white;
   font: Actor;
