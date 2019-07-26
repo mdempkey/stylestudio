@@ -115,7 +115,7 @@ h5{
   	background-color: transparent;
   	width: 300px;
   	height: 424px;
- 	 border: 1px solid #black;
+ 	 border: 1px solid #77778F;
 	  perspective: 1000px; 
 }
 
@@ -125,7 +125,7 @@ h5{
  	 background-color: transparent;
  	 width: 300px;
   	height: 445px;
-  	border: 1px solid #black;
+  	border: 1px solid #77778F;
   	perspective: 1000px; 
 }
 .flip-box-inner {
@@ -156,13 +156,13 @@ h5{
 
 
 .flip-box-front {
- 	 background-color: black;
- 	 color: black;
+ 	 background-color: #77778F;
+ 	 color: #77778F;
 }
 
 
 .flip-box-back {
- 	 background-color: black;
+ 	 background-color: #77778F;
  	 color: white;
   	transform: rotateY(180deg);
 }
