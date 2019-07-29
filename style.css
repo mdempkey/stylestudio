@@ -318,8 +318,7 @@ input[type=submit]:hover {
         position: fixed;
         bottom: 50px;
         float: right;
-        right: 5.5%;
-        left: 77.25%;
+    	aligin: right;
         max-width: 140px;
         width: 150%;
 	max-height: 130px;
