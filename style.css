@@ -318,9 +318,9 @@ input[type=submit]:hover {
         position: fixed;
         bottom: 50px;
         float: right;
-        right: 10.5%;
+        right: 5.5%;
         left: 77.25%;
-        max-width: 100px;
+        max-width: 140px;
         width: 150%;
         font-size: 15px;
         border-color: rgba(85, 85, 85, 0.2);
