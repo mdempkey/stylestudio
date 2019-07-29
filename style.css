@@ -321,7 +321,7 @@ input[type=submit]:hover {
         right: 18.5%;
         left: 77.25%;
         max-width: 70px;
-        width: 100%;
+        width: 150%;
         font-size: 12px;
         border-color: rgba(85, 85, 85, 0.2);
         background-color: pink;
