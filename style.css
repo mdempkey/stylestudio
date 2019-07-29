@@ -318,9 +318,9 @@ input[type=submit]:hover {
         position: fixed;
         bottom: 50px;
         float: right;
-        right: 18.5%;
+        right: 10.5%;
         left: 77.25%;
-        max-width: 70px;
+        max-width: 100px;
         width: 150%;
         font-size: 15px;
         border-color: rgba(85, 85, 85, 0.2);
@@ -331,5 +331,5 @@ input[type=submit]:hover {
     }
 /*On Hover Color Change*/
     #myBtn:hover {
-        background-color: #7dbbf1;
+        background-color: gray;
     }
