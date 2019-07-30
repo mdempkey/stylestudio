@@ -107,7 +107,7 @@ h8{
 }
 
 h8:after {
-	content: "About Us!";
+	content: "About-Us!";
 	position: absolute; left: 10px; top: 5px;
 	color: rgba(255,0,0,0.5);   
 }
