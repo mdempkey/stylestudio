@@ -106,10 +106,11 @@ h8{
 	
 }
 
-h8:after {
+h8:after{
 	content: "About Us!";
 	position: absolute; left: 10px; top: 5px;
-	color: rgba(255,0,0,0.5);   
+	color: rgba(255,0,0,0.5);
+
 }
 
 h9{
