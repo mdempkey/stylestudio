@@ -10,7 +10,7 @@ body{
 
 h1{
 	font-family:Actor;
-	font-size: 30px;
+	font-size: 45px;
 	text-align: left;
 	word-spacing: 60px;
 }
@@ -52,14 +52,14 @@ h11{
 	position: relative;
 	font: 200px Helvetica, Sans-Serif;
 	letter-spacing: -5px;
-	color: rgba(0,0,255,0.5); 
+	color: rgba(243,107,180,0.5); 
 	
 }
 
 h11:after {
 	content: "OOTW";
 	position: absolute; left: 10px; top: 5px;
-	color: rgba(255,0,0,0.5);   
+	color: rgba(150,150,150,0.5);   
 }
 
 h12{
