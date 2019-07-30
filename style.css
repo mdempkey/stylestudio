@@ -67,14 +67,14 @@ h12{
 	position: relative;
 	font: 200px Helvetica, Sans-Serif;
 	letter-spacing: -5px;
-	color: rgba(0,0,255,0.5); 
+	color: rgba(243,107,180,0.5); 
 	
 }
 
 h12:after {
 	content: "Style Quiz";
 	position: absolute; left: 10px; top: 5px;
-	color: rgba(255,0,0,0.5);   
+	color: rgba(255,255,255,0.5);   
 }
 
 h5{
@@ -88,28 +88,28 @@ h6{
 	position: relative;
 	font: 150px Helvetica, Sans-Serif;
 	letter-spacing: -5px;
-	color: rgba(0,0,255,0.5); 
+	color: rgba(243,107,180,0.5); 
 	
 }
 
 h6:after {
 	content: "Trending Now:";
 	position: absolute; left: 10px; top: 5px;
-	color: rgba(255,0,0,0.5);   
+	color: rgba(255,255,255,0.5);   
 }
 h8{
 	display: inline;
 	position: relative;
 	font: 150px Helvetica, Sans-Serif;
 	letter-spacing: -5px;
-	color: rgba(0,0,255,0.5); 
+	color: rgba(243,107,180,0.5);
 	
 }
 
 h8:after{
 	content: "About Us!";
 	position: absolute; left: 10px; top: 5px;
-	color: rgba(255,0,0,0.5);
+	color: rgba(255,255,255,0.5);
 
 }
 
@@ -118,14 +118,14 @@ h9{
 	position: relative;
 	font: 100px Helvetica, Sans-Serif;
 	letter-spacing: -5px;
-	color: rgba(0,0,255,0.5); 
+	color: rgba(243,107,180,0.5);
 	
 }
 
 h9:after {
 	content: "Stores";
 	position: absolute; left: 10px; top: 5px;
-	color: rgba(255,0,0,0.5);   
+	color: rgba(255,255,255,0.5);   
 }
 
 h10{
@@ -133,14 +133,14 @@ h10{
 	position: relative;
 	font: 150px Helvetica, Sans-Serif;
 	letter-spacing: -5px;
-	color: rgba(0,0,255,0.5); 
+	color: rgba(243,107,180,0.5); 
 	
 }
 
 h10:after {
 	content: "Sell";
 	position: absolute; left: 10px; top: 5px;
-	color: rgba(255,0,0,0.5);   
+	color: rgba(255,255,255,0.5);   
 }
 	
 .idk {
