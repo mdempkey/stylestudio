@@ -82,7 +82,20 @@ h6:after {
 	position: absolute; left: 10px; top: 5px;
 	color: rgba(255,0,0,0.5);   
 }
+h7{
+	display: inline;
+	position: relative;
+	font: 150px Helvetica, Sans-Serif;
+	letter-spacing: -5px;
+	color: rgba(0,0,255,0.5); 
+	
+}
 
+h7:after {
+	content: "About Us!";
+	position: absolute; left: 10px; top: 5px;
+	color: rgba(255,0,0,0.5);   
+}
 	
 .idk {
 	display:grid;
