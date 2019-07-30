@@ -47,14 +47,20 @@ a:hover{
 }
 
 h4{
-	align-items: right;
-	border: 10px white dotted;
-	font-family: Actor;
-	font-size: 40px ;
-	margin-bottom: 20px;
-	font-color: white;
+	display: inline;
+	position: relative;
+	font: 200px Helvetica, Sans-Serif;
+	letter-spacing: -5px;
+	color: rgba(0,0,255,0.5); 
 	
 }
+
+h4:after {
+	content: "OOTW";
+	position: absolute; left: 10px; top: 5px;
+	color: rgba(255,0,0,0.5);   
+}
+
 
 h5{
 	font-family: Actor;
@@ -370,19 +376,6 @@ input[type=submit]:hover {
   display: table;
 }
 
-h4 {
-	display: inline;
-	position: relative;
-	font: 200px Helvetica, Sans-Serif;
-	letter-spacing: -5px;
-	color: rgba(0,0,255,0.5); 
-}
-
-h4:after {
-	content: "OOTW";
-	position: absolute; left: 10px; top: 5px;
-	color: rgba(255,0,0,0.5);   
-}
 
 
 
