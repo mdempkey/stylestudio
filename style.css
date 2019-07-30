@@ -96,6 +96,21 @@ h8:after {
 	position: absolute; left: 10px; top: 5px;
 	color: rgba(255,0,0,0.5);   
 }
+
+h9{
+	display: inline;
+	position: relative;
+	font: 150px Helvetica, Sans-Serif;
+	letter-spacing: -5px;
+	color: rgba(0,0,255,0.5); 
+	
+}
+
+h9:after {
+	content: "Stores";
+	position: absolute; left: 10px; top: 5px;
+	color: rgba(255,0,0,0.5);   
+}
 	
 .idk {
 	display:grid;
