@@ -47,7 +47,7 @@ a:hover{
 	color: #77778F;
 }
 
-h4{
+h11{
 	display: inline;
 	position: relative;
 	font: 200px Helvetica, Sans-Serif;
@@ -56,7 +56,7 @@ h4{
 	
 }
 
-h4:after {
+h11:after {
 	content: "OOTW";
 	position: absolute; left: 10px; top: 5px;
 	color: rgba(255,0,0,0.5);   
