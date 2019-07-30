@@ -82,7 +82,7 @@ h6:after {
 	position: absolute; left: 10px; top: 5px;
 	color: rgba(255,0,0,0.5);   
 }
-h7{
+h8{
 	display: inline;
 	position: relative;
 	font: 150px Helvetica, Sans-Serif;
@@ -91,7 +91,7 @@ h7{
 	
 }
 
-h7:after {
+h8:after {
 	content: "About Us!";
 	position: absolute; left: 10px; top: 5px;
 	color: rgba(255,0,0,0.5);   
