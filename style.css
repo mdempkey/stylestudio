@@ -47,6 +47,17 @@ a:hover{
 	color: #77778F;
 }
 
+
+h20{
+	font-color: #77778F;
+	font-size: 55px;
+	border: 15px white;
+	font-family: Actor;
+	text-align: center;
+	
+}
+	
+
 h11{
 	display: inline;
 	position: relative;
