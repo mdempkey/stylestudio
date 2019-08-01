@@ -49,11 +49,11 @@ a:hover{
 
 
 h20{
-	font-color: #77778F;
-	font-size: 55px;
-	border: 15px white solid;
+	font-color: white;
+	font-size: 40px;
 	font-family: Actor;
 	text-align: center;
+	margin= 15px;
 	
 }
 	
